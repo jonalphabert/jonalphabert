@@ -21,7 +21,7 @@
 ![Nuxt JS](https://img.shields.io/badge/nuxt-5fdc81?style=for-the-badge&logo=nuxt&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-- 🔭 I’m currently working on **Front End Developer @ Solusi Identitas Global Net**
+- 🔭 I’m currently working on **Senior Software Engineer @ Koffiesoft**
 - 🌱 I’m currently learning **Website Animation - Framer Motion**
 - 💬 Ask me about **Web developement**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-alphabert-b58300192/)
