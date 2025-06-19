@@ -1,14 +1,5 @@
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Jonathan Alphabert</h1>
 
-
-<!-- <a href="https://jonalphabert.com"><u>Visit Website</u></a> -->
-<p>
-  
-[![Website](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
-<a href="https://www.linkedin.com/in/jonathan-alphabert-b58300192/"><u>LinkedIn</u></a>
-
-</p>
-
 <hr />
 <p>✨ Hi, I am a passionate and detail-oriented web developer that creating efficient, scalable, and user-friendly websites. I thrive on turning ideas into reality through clean and efficient code.</p>
 
