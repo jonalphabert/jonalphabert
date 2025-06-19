@@ -2,7 +2,7 @@
 
 <p align="center">
 <!-- <a href="https://jonalphabert.com"><u>Visit Website</u></a> -->
-<a href="https://www.instagram.com/john.forjc/"><u>Instagram</u></a>
+(https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourportfolio.com)
 <a href="https://www.linkedin.com/in/jonathan-alphabert-b58300192/"><u>LinkedIn</u></a>
 </p>
 
