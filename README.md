@@ -16,6 +16,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 - 🔭 I’m currently working on **Senior Software Engineer @ Koffiesoft**
-- 🌱 I’m currently learning **Website Animation - Framer Motion**
+- 🌱 I’m currently learning **Website Animation - GSAP** and **Golang for Backend Services**
 - 💬 Ask me about **Web developement**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-alphabert-b58300192/)
