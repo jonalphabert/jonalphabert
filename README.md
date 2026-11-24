@@ -1,48 +1,60 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  Hi there, I'm <b>Jonathan Alphabert</b> 👨‍💻
-</h1>
+# Hi, I'm Jonathan Alphabert 👋
 
-<p align="center">
-  🚀 Passionate Web Developer | 💡 Tech Explorer | ☕ Coffee Enthusiast
-</p>
+**Senior Software Engineer at PT Avia Avian (Avian Brands)** · Backend & full-stack development
 
----
+## About me
 
-### 👨‍💻 About Me
-✨ I’m a **detail-oriented web developer** who loves building efficient, scalable, and user-friendly websites.  
-I thrive on transforming ideas into reality with **clean code** and a strong focus on **performance optimization**.  
+I build APIs, reporting systems, and web applications. Some of my favorite engineering problems start with a simple question. Why does a week of transaction data take so long to summarize? What does it cost to keep five terabytes of files online? Following those questions has led me to rewrite SQL queries, migrate storage, and measure the difference each change made.
 
-I specialize in **full-stack development** and I’m always eager to learn, adapt, and explore new technologies.  
-When I’m not coding, you’ll find me keeping up with the latest tech trends or enjoying a good cup of coffee while brainstorming fresh ideas.  
+I’m currently learning **Go** for backend services and **GSAP** for web animation.
 
----
+## Selected work
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vue-48b17f?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nuxt-5fdc81?style=for-the-badge&logo=nuxt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
+### PostgreSQL transaction reporting
 
----
+A seven-day transaction summary was slow to generate from a table with roughly 300 million rows. I rewrote the aggregation query using common table expressions (CTEs). The same seven-day summary ran **15× faster**.
 
-### 📌 Currently
-- 🔭 Working as **Senior Software Engineer @ PT Avia Avian(Avian Brands)**  
-- 🌱 Learning **GSAP** (Website Animations) & **Golang** (Backend Services)  
-- 💬 Ask me about **Web Development**  
+**Stack** · PostgreSQL · Node.js · Express · Sequelize
 
----
+### Object storage migration
 
-### 📫 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonathan-alphabert-b58300192/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+To reduce recurring storage costs, I migrated **5 TB of data** from Amazon S3 to self-hosted MinIO. The move saved approximately **IDR 1.6 million per month**. I used Prometheus and Grafana to monitor the new setup.
 
----
+**Stack** · MinIO · Docker · Nginx · Prometheus · Grafana
 
-✨ *"Code is like humor. When you have to explain it, it’s bad."*  
+### OnLoveMoment — Digital invitations
+
+Couples need a way to share event details and keep track of who’s coming. I built a platform where they can choose an invitation template, collect RSVPs, and receive guestbook messages. Each template has its own styling so a design change for one invitation stays isolated from the others.
+
+**Stack** · Nuxt 3 · Vue.js · PostgreSQL · Pinia
+
+## Tech stack
+
+**Backend & data**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-417E38?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-333333?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](./assets/badges/nuxt.svg)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-171717?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Infrastructure & monitoring**
+
+![Docker](./assets/badges/docker.svg)
+![Nginx](./assets/badges/nginx.svg)
+![Prometheus](./assets/badges/prometheus.svg)
+![Grafana](./assets/badges/grafana.svg)
+
+## Let’s work together
+
+Building a reporting tool, tracking down a slow query, or hiring a backend engineer? I’d love to hear what your team is working on and where I could contribute.
+
+[**Message me on LinkedIn →**](https://www.linkedin.com/in/jonathan-alphabert-b58300192/)
