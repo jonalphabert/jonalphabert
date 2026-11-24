@@ -30,7 +30,7 @@ When I’m not coding, you’ll find me keeping up with the latest tech trends o
 ---
 
 ### 📌 Currently
-- 🔭 Working as **Senior Software Engineer @ Koffiesoft**  
+- 🔭 Working as **Senior Software Engineer @ PT Avia Avian(Avian Brands)**  
 - 🌱 Learning **GSAP** (Website Animations) & **Golang** (Backend Services)  
 - 💬 Ask me about **Web Development**  
 
